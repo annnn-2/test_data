@@ -6,4 +6,5 @@ https://docs.google.com/spreadsheets/d/1vKQHclVsX8OK5FoCux8JeIPrEelC7QZ7VUJW3jDV
 диаграмма рассеяния :
 https://github.com/annnn-2/test_data/tree/main/test
 
-код :
+код : 
+https://github.com/annnn-2/test_data/blob/main/Test_Data.ipynb
